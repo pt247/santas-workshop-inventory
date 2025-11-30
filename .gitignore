@@ -15,6 +15,7 @@ dist/
 *.egg-info/
 .eggs/
 pip-wheel-metadata/
+*.swp
 
 # Test and coverage outputs
 .pytest_cache/
